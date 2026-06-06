@@ -1,7 +1,7 @@
 # David Walgamotte
 
 **Email:** walgamotte@proton.me | **Location:** Metairie, LA  
-**Portfolio:** [://github.com/walgamotte](https://github.com/walgamotte) | **LinkedIn:** [://linkedin.com](https://linkedin.com)
+**Portfolio:** [://github.com/walgamotte](https://github.com/walgamotte) | **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/david-walgamotte-8376423a4)
 
 ---
 
