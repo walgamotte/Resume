@@ -21,18 +21,14 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 
 ## Professional Experience
 
-### Independent GRC & Cybersecurity Consultant
-**Self-Employed** | *January 2023 – Present*
+### Freelance Consultant / Independent Contractor
+**Self-Employed** | *January 2024 – Present*
+*   Provide IT support and perform break-fix repairs.
 *   Advise small-to-mid-sized enterprises on security program development, risk management strategies, and regulatory alignment.
-*   Author comprehensive, enterprise-grade acceptable use policies covering emerging technologies, including Generative AI and remote work (BYOD) constraints.
-*   Develop automation scripts using machine-readable formats like NIST OSCAL to parse, filter, and audit live security controls, reducing manual assessment overhead.
-
-#### Selected Projects (Governance-as-Code Portfolio)
-*   **Enterprise Generative AI Policy Framework:** Authored an enterprise compliance policy mapping data inputs to corporate classification structures, establishing a "Human-in-the-Loop" validation mechanism to mitigate data privacy and IP risks.
-*   **Automated NIST OSCAL Control Parser:** Built and deployed a Python script that programmatically interacts with the live NIST OSCAL repository to fetch, parse, and isolate active SP 800-53 security controls, transforming compliance documentation into actionable code modules.
+*   Utilized gig-economy platforms to deliver on-demand services during a targeted job search.
 
 ### Senior Information Security Engineer
-**Wells Fargo** | *January 2016 – January 2023*
+**Wells Fargo** | *January 2016 – January 2024*
 *   Conducted rigorous security and compliance assessments of enterprise applications, SaaS architectures, and public cloud environments across AWS, Azure, and GCP.
 *   Evaluated product security posture, focusing heavily on cryptographic controls for data-at-rest and data-in-transit to protect sensitive financial services data.
 *   Led cross-functional remediation efforts alongside software development groups to harden systems and ensure line-of-business deployments conformed to banking regulations.
