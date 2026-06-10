@@ -15,7 +15,7 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 *   **Governance & Risk Assessment:** Policy Authoring, Threat Modeling, Third-Party/Vendor Risk Management (TPRM), Cloud Security Assessments
 *   **Security Automation:** Python, Open Security Controls Assessment Language (OSCAL), Shell Scripting, PowerShell
 *   **Identity & Access Management:** Identity and Access Management (IAM), Multi-Factor Authentication (MFA), Smartcard Management Systems
-*   **Vulnerability & Operations:** Splunk, ACAS, Nessus, Host Based Security System (HBSS), Linux/UNIX & Windows Administration
+*   **Vulnerability & Operations:** Splunk, ACAS, Nessus, Wazuh, Host Based Security System (HBSS), Linux/UNIX & Windows Administration
 
 ---
 
