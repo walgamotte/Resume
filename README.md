@@ -1,4 +1,4 @@
-![David Walgamotte](./davidwalgamotte.jpg)
+![David Walgamotte](./dwalgamottepic.jpg)
 
 
 
