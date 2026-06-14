@@ -5,23 +5,17 @@
 * **Email:** walgamotte@proton.me
 * **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
----
-
 ## 📌 Summary
 Detail-oriented GRC and Cybersecurity Professional with over 15 years of experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code (Python, Shell, PowerShell) to streamline compliance tracking, vulnerability remediation, and identity management across AWS, Azure, GCP, and hybrid infrastructures.
 
----
-
-## Core Competencies
+## 🛠 Skills
 *   **Frameworks & Compliance:** NIST SP 800-53 (Rev 4/5), Risk Management Framework (RMF), FedRAMP, SOC 2, ISO 27001
 *   **Governance & Risk Assessment:** Policy Authoring, Threat Modeling, Third-Party/Vendor Risk Management (TPRM), Cloud Security Assessments
 *   **Security Automation:** Python, Open Security Controls Assessment Language (OSCAL), Shell Scripting, PowerShell
 *   **Identity & Access Management:** Identity and Access Management (IAM), Multi-Factor Authentication (MFA), Smartcard Management Systems
 *   **Vulnerability & Operations:** Splunk, ACAS, Nessus, Wazuh, Host Based Security System (HBSS), Linux/UNIX & Windows Administration
 
----
-
-## Professional Experience
+## 💼 Professional Experience
 
 ### Freelance Consultant / Independent Contractor
 **Self-Employed** | *January 2024 – Present*
@@ -50,15 +44,11 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 *   Configured, provisioned, and managed system user accounts, directory permissions, and explicit access control lists (ACLs).
 *   Diagnosed and remediated urgent operating system and hardware vulnerabilities to minimize infrastructure downtime.
 
----
-
 ## 🎓 Education & Certifications
 * **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
 * **CompTIA Security+** | 2025
-
----
 
 ## 📬 Contact Information
 * **Phone:** 504.427.1074
