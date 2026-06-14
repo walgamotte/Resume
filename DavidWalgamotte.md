@@ -7,7 +7,7 @@
 
 ---
 
-## Professional Summary
+## 📌 Summary
 Detail-oriented GRC and Cybersecurity Professional with over 15 years of experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code (Python, Shell, PowerShell) to streamline compliance tracking, vulnerability remediation, and identity management across AWS, Azure, GCP, and hybrid infrastructures.
 
 ---
