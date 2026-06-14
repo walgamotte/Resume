@@ -1,7 +1,9 @@
 # David Walgamotte
 
-**Email:** walgamotte@proton.me | **Location:** Metairie, LA  
-**Portfolio:** [://github.com/walgamotte](https://github.com/walgamotte) | **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/david-walgamotte-8376423a4)
+## 📬 Contact Information
+* **Phone:** 504.427.1074
+* **Email:** walgamotte@proton.me
+* **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
 ---
 
@@ -50,8 +52,16 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 
 ---
 
-## Education
+## 🎓 Education & Certifications
+* **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
+* **CompTIA A+ PC & MAC** | 2000
+* **Microsoft Windows Certified Engineer** | 2005
+* **CompTIA Security+** | 2025
 
-**Information Technology Coursework**  
-Louisiana Technical College
+---
+
+## 📬 Contact Information
+* **Phone:** 504.427.1074
+* **Email:** walgamotte@proton.me
+* **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
