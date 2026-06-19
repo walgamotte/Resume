@@ -3,7 +3,6 @@
 # David Walgamotte
 
 ## 📬 Contact Information
-* **Phone:** 504.427.1074
 * **Email:** walgamotte@proton.me
 * **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
