@@ -1,4 +1,5 @@
 # David Walgamotte
+* **Email:** walgamotte@proton.me
 
 ---
 
@@ -33,9 +34,3 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
 * **CompTIA Security+** | 2025
-
----
-
-## 📬 Contact Information
-* **Email:** walgamotte@proton.me
-* **LinkedIn:** https://www.linkedin.com/in /david-walgamotte-8376423a4
