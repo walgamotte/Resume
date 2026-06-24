@@ -16,7 +16,6 @@ Detail-oriented GRC and Cybersecurity Professional driving information security,
 ### Freelance Consultant / Independent Contractor
 **Self-Employed** | *January 2024 – Present*
 *   Provide IT support and perform break-fix repairs.
-*   Advise small-to-mid-sized enterprises on security program development, risk management strategies, and regulatory alignment.
 *   Utilized gig-economy platforms to deliver on-demand services during a targeted job search.
 
 ### Senior Information Security Engineer
