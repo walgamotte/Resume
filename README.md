@@ -4,10 +4,9 @@
 
 ## 📬 Contact Information
 * **Email:** walgamotte@proton.me
-* **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
 ## 📌 Summary
-Detail-oriented GRC and Cybersecurity Professional with over 15 years of experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code (Python, Shell, PowerShell) to streamline compliance tracking, vulnerability remediation, and identity management across AWS, Azure, GCP, and hybrid infrastructures.
+Detail-oriented GRC and Cybersecurity Professional with experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code (Python, Shell, PowerShell) to streamline compliance tracking, vulnerability remediation, and identity management across AWS, Azure, GCP, and hybrid infrastructures.
 
 ## 🛠 Skills
 *   **Frameworks & Compliance:** NIST SP 800-53 (Rev 4/5), Risk Management Framework (RMF), FedRAMP, SOC 2, ISO 27001
@@ -21,7 +20,6 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 ### Freelance Consultant / Independent Contractor
 **Self-Employed** | *January 2024 – Present*
 *   Provide IT support and perform break-fix repairs.
-*   Advise small-to-mid-sized enterprises on security program development, risk management strategies, and regulatory alignment.
 *   Utilized gig-economy platforms to deliver on-demand services during a targeted job search.
 
 ### Senior Information Security Engineer
@@ -50,7 +48,3 @@ Detail-oriented GRC and Cybersecurity Professional with over 15 years of experie
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
 * **CompTIA Security+** | 2025
-
-## 📬 Contact Information
-* **Email:** walgamotte@proton.me
-* **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
