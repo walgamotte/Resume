@@ -1,14 +1,10 @@
 # David Walgamotte
 * **Email:** walgamotte@proton.me
 
----
-
 ## 📌 Summary
-Results-driven technology professional with over 30 years of experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
+Results-driven technology professional with experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
 
-I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-economy platforms to deliver on-demand services during a targeted job search.
-
----
+I was laid off from Wellsfargo Bank. I now provide IT support and utilize gig-economy platforms to deliver on-demand services during a targeted job search.
 
 ## 🛠 Skills
 * **Core Tech:** Computer, Network, Security, Smart TVs, Audio, Video, Home Automation, IoT devices, configuration and repair, etc.
@@ -16,18 +12,13 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 * **Systems:** Windows, Unix, Linux, Cloud, 3PA, SaaS
 * **Soft Skills:** Technical Leadership, Root-Cause Analysis, Cross-Team Collaboration
 
----
-
 ## 💼 Professional Experience
 
-### **Technology Specialist** | Pro-Tech Onsite Tech Support  
+### **Technology Specialist** | Pro-Tech Support  
 
 ### **Senior Security Engineer** | Wells Fargo 
 
 ### **Information Security Officer** | US Navy
-
-
----
 
 ## 🎓 Education & Certifications
 * **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
