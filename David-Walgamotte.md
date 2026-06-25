@@ -21,7 +21,7 @@ Post Layoff from Wellsfargo Bank, I provide freelance technical support and util
 ### **Information Security Officer** | US Navy
 
 ## 🎓 Education & Certifications
-* **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
+* **2yr diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
 * **CompTIA Security+** | 2025
