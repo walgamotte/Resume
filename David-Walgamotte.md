@@ -24,4 +24,4 @@ Post Layoff from Wellsfargo Bank, I provide freelance technical support and util
 * **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
-* **CompTIA Security+** | 2025
+* **CompTIA Security+** | 2010 & 2025
