@@ -44,7 +44,7 @@ Detail-oriented GRC and Cybersecurity Professional with experience driving infor
 *   Diagnosed and remediated urgent operating system and hardware vulnerabilities to minimize infrastructure downtime.
 
 ## 🎓 Education & Certifications
-* **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
+* **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
-* **CompTIA Security+** | 2025
+* **CompTIA Security+** | 2010 & 2025
