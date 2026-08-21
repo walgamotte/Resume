@@ -6,7 +6,7 @@
 * **Email:** walgamotte@proton.me
 
 ## 📌 Summary
-Detail-oriented GRC and Cybersecurity Professional with experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code to streamline compliance tracking, vulnerability remediation, and identity management across cloud infrastructures.
+Detail-oriented GRC and Cybersecurity Professional with experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST, RMF, and ISO frameworks. Proficient in leveraging Automation-as-Code to streamline compliance tracking, vulnerability remediation, and identity management across cloud infrastructures.
 
 ## 🛠 Skills
 *   **Frameworks & Compliance:** NIST SP 800-53 (Rev 4/5), Risk Management Framework (RMF), FedRAMP, SOC 2, ISO 27001
