@@ -14,11 +14,11 @@ Post Layoff from Wellsfargo Bank, I provide freelance technical support and util
 
 ## 💼 Professional Experience
 
-### **Technology Specialist** | Pro-Tech Support  
+* **Technology Specialist** | Pro-Tech Support  
 
-### **Senior Security Engineer** | Wells Fargo 
+* **Senior Security Engineer** | Wells Fargo 
 
-### **Information Security Officer** | US Navy
+* **Information Security Officer** | US Navy
 
 ## 🎓 Education & Certifications
 * **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
