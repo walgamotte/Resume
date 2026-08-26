@@ -13,11 +13,8 @@ Post Layoff from Wellsfargo Bank, I provide freelance technical support and util
 * **Soft Skills:** Technical Leadership, Root-Cause Analysis, Cross-Team Collaboration
 
 ## 💼 Professional Experience
-
 * **Technology Specialist** | Pro-Tech Support  
-
 * **Senior Security Engineer** | Wells Fargo 
-
 * **Information Security Officer** | US Navy
 
 ## 🎓 Education & Certifications
