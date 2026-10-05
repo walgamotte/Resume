@@ -1,9 +1,5 @@
-![David Walgamotte](./dwalgamottepic.jpg)
-
 # David Walgamotte
-
-## 📬 Contact Information
-* **Email:** walgamotte@proton.me
+walgamotte@proton.me
 
 ## 📌 Summary
 Detail-oriented GRC and Cybersecurity Professional with experience driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST, RMF, and ISO frameworks. Proficient in leveraging Automation-as-Code to streamline compliance tracking, vulnerability remediation, and identity management across cloud infrastructures.
@@ -43,5 +39,5 @@ Detail-oriented GRC and Cybersecurity Professional with experience driving infor
 *   Configured, provisioned, and managed system user accounts, directory permissions, and explicit access control lists (ACLs).
 *   Diagnosed and remediated urgent operating system and hardware vulnerabilities to minimize infrastructure downtime.
 
-## 🎓 Education & Certifications
+## 🎓 Education
 * **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
