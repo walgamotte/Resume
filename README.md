@@ -45,6 +45,3 @@ Detail-oriented GRC and Cybersecurity Professional with experience driving infor
 
 ## 🎓 Education & Certifications
 * **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
-* **CompTIA A+ PC & MAC** | 2000
-* **Microsoft Windows Certified Engineer** | 2005
-* **CompTIA Security+** | 2010 & 2025
