@@ -1,5 +1,5 @@
 # David Walgamotte
-* **Email:** walgamotte@proton.me
+walgamotte@proton.me
 
 ## 📌 Summary
 Detail-oriented GRC and Cybersecurity Professional driving information security, risk management, and regulatory compliance across major financial institutions and defense environments. Expert in conducting comprehensive risk assessments, authoring enterprise security policies, and mapping technical controls to NIST SP 800-53, RMF, and ISO 27001 frameworks. Proficient in leveraging Automation-as-Code (Python, Shell, PowerShell) to streamline compliance tracking, vulnerability remediation, and identity management across AWS, Azure, GCP, and hybrid infrastructures.
@@ -39,8 +39,5 @@ Detail-oriented GRC and Cybersecurity Professional driving information security,
 *   Configured, provisioned, and managed system user accounts, directory permissions, and explicit access control lists (ACLs).
 *   Diagnosed and remediated urgent operating system and hardware vulnerabilities to minimize infrastructure downtime.
 
-## 🎓 Education & Certifications
+## 🎓 Education
 * ** 2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
-* **CompTIA A+ PC & MAC** | 2000
-* **Microsoft Windows Certified Engineer** | 2005
-* **CompTIA Security+** | 2010 & 2025
