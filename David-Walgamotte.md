@@ -1,5 +1,5 @@
 # David Walgamotte
-* **Email:** walgamotte@proton.me
+walgamotte@proton.me
 
 ## 📌 Summary
 Results-driven technology professional with experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
@@ -19,6 +19,3 @@ Post Layoff from Wells fargo Bank, I provide freelance technical support and uti
 
 ## 🎓 Education & Certifications
 * **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
-* **CompTIA A+ PC & MAC** | 2000
-* **Microsoft Windows Certified Engineer** | 2005
-* **CompTIA Security+** | 2010 & 2025
